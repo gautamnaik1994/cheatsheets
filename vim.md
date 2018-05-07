@@ -100,15 +100,20 @@ Getting started
 
 ### Clipboard
 
-| Shortcut | Description         |
-| ---      | ---                 |
-| `x`      | Delete character    |
-| ---      | ---                 |
-| `dd`     | Delete line _(Cut)_ |
-| `yy`     | Yank line _(Copy)_  |
-| ---      | ---                 |
-| `p`      | Paste               |
-| `P`      | Paste before        |
+| Shortcut | Description                 |
+| ---      | ---                         |
+| `x`      | Delete character            |
+| ---      | ---                         |
+| `dd`     | Delete line _(Cut)_         |
+| `yy`     | Yank line _(Copy)_          |
+| ---      | ---                         |
+| `p`      | Paste                       |
+| `P`      | Paste before                |
+| ---      | ---                         |
+| `"*p`    | Paste from system clipboard |
+| `"+p`    | Paste from system clipboard |
+| `"*y`    | Paste to system clipboard   |
+| `"+y`    | Paste to system clipboard   |
 {: .-shortcuts}
 
 ### Visual mode
